@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/usr/bin/env bash
 
 export SYSTEMD_COLORS=0
 term=${ROFI_SYSTEMD_TERM-urxvt -e}
